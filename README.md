@@ -32,6 +32,6 @@ to discuss what you would like to change.
 
 Please make sure to update tests as appropriate.
 
-## License
+## Contact Us
 
-[MIT](https://choosealicense.com/licenses/mit/)
+[Discord]([https://choosealicense.com/licenses/mit/](https://discord.gg/ECCMxuknB4))
