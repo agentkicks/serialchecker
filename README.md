@@ -34,4 +34,4 @@ Please make sure to update tests as appropriate.
 
 ## Contact Us
 
-[Discord]([https://choosealicense.com/licenses/mit/](https://discord.gg/ECCMxuknB4))
+[Discord](https://discord.gg/ECCMxuknB4)
