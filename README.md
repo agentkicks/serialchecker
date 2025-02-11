@@ -15,6 +15,10 @@ pip install foobar
 ```python
 import foobar
 
+<p align="center">
+  <img src="apple.png">
+</p>
+
 # returns 'words'
 foobar.pluralize('word')
 
