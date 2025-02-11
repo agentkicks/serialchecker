@@ -15,9 +15,6 @@ pip install foobar
 ```python
 import foobar
 
-<p align="center">
-  <img src="apple.png">
-</p>
 
 # returns 'words'
 foobar.pluralize('word')
@@ -38,3 +35,7 @@ EA - 2020 - 2025
 ## Contact Us
 
 [Discord](https://discord.gg/ECCMxuknB4)
+#
+<p align="center">
+  <img src="apple.png">
+</p>
