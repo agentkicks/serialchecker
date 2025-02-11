@@ -27,11 +27,10 @@ foobar.singularize('phenomena')
 
 ## Contributing
 
-Pull requests are welcome. For major changes, please open an issue first
-to discuss what you would like to change.
+This is made by Agent Kicks, any copies and we will contact you.
 
-Please make sure to update tests as appropriate.
+EA - 2020 - 2025
 
 ## Contact Us
 
-[Discord](https://discord.gg/ECCMxuknB4)
+[Discord]([https://choosealicense.com/licenses/mit/](https://discord.gg/ECCMxuknB4))
