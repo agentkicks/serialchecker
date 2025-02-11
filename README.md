@@ -37,5 +37,5 @@ EA - 2020 - 2025
 [Discord](https://discord.gg/ECCMxuknB4)
 #
 <p align="center">
-  <img src="apple.png">
+  <img src="images.png">
 </p>
