@@ -33,4 +33,4 @@ EA - 2020 - 2025
 
 ## Contact Us
 
-[Discord]([https://choosealicense.com/licenses/mit/](https://discord.gg/ECCMxuknB4))
+[Discord](https://discord.gg/ECCMxuknB4)
